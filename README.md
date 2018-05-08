@@ -1,17 +1,15 @@
  
 ## Synopsis
 
-This is a game designed and developed with the help of web-based technology.  
-
-It was created using:
+This is a game designed and developed with the help of:
 
 * HTML (canvas)
 * CSS
 * JavaScript
 
-## Installation
+## Live Demo
 
-No installation is needed. It plays directly in your browser.
+To see the live demo, please [click here](https://patriciageo3.github.io/game-01/).
 
 ## How it works
 
@@ -20,7 +18,7 @@ Move paddle with the help of mouse movement to catch the ball and defeat your ad
 You have 3 chances to defeat your opponent.
 
 
-## Contributors
+## Authors
 
 Patricia Georgescu
 
